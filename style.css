@@ -5,5 +5,13 @@ main {
     align-items: center;
 }
 button {
-    width: 80px;
+    width: 100px;
+    padding:10px;
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+    transition: all 0.5s;
 }
+ button:hover{
+      letter-spacing:1px;
+ }
