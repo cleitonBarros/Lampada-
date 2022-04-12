@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img  src=".github/view.gif" width="1200px" height="720px" />
+  <img  src="img/lamp.gif" width="1000px" height="600px" />
 </h1>
 
 
